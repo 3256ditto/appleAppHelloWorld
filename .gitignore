@@ -60,3 +60,15 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# ---------------------------------------------
+# Xcode / macOS generated files (do not commit)
+# ---------------------------------------------
+
+# DerivedData:
+# Xcode's build artifacts / caches / indexes (re-generated automatically, machine-specific).
+DerivedData/
+
+# .DS_Store:
+# Finder folder view settings (macOS creates it automatically).
+.DS_Store
